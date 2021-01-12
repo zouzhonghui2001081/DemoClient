@@ -4,6 +4,8 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreeterClient", "GreeterClient\GreeterClient.csproj", "{B754FB02-D501-4308-8B89-33AB7119C80D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greeter", "DemoCommon\Greeter\Greeter.csproj", "{B844B54C-05A5-424C-A2FB-1259F6C2BEA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{B754FB02-D501-4308-8B89-33AB7119C80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B754FB02-D501-4308-8B89-33AB7119C80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B754FB02-D501-4308-8B89-33AB7119C80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B844B54C-05A5-424C-A2FB-1259F6C2BEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B844B54C-05A5-424C-A2FB-1259F6C2BEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B844B54C-05A5-424C-A2FB-1259F6C2BEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B844B54C-05A5-424C-A2FB-1259F6C2BEA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
